@@ -90,3 +90,10 @@
 + Отсканируйте SSH-ключ.
 + Придумайте логин.
 + Подключитесь к облаку через SSH.
+### Ответ:
+
+<img width="960" alt="6-01_5 1" src="https://github.com/Roman-Teterevlev/SYS-21_6-01/assets/132853752/e9343a27-14e3-422e-a945-b76e5d2a549b">
+
+<img width="960" alt="6-01_5 2" src="https://github.com/Roman-Teterevlev/SYS-21_6-01/assets/132853752/f168cd9e-4fde-49bd-a9f0-7ea2c113aa2e">
+
+<img width="960" alt="6-01_5 3" src="https://github.com/Roman-Teterevlev/SYS-21_6-01/assets/132853752/23cda167-4936-4a1f-ac20-817cbcf3d61d">
